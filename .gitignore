@@ -6,3 +6,4 @@
 **.terraform
 **.terraform.lock.*
 **/data/*
+**__pycache__/
