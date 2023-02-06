@@ -1,3 +1,7 @@
 **/ny_taxi_postgres_data/*
 **/*.csv
 **/*.parquet
+*.tfstate
+*.tfstate.*
+**.terraform
+**.terraform.lock.*
